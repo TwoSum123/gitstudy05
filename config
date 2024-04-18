@@ -1,0 +1,13 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[remote "new"]
+	url = https://github.com/TwoSum123/new.git
+	fetch = +refs/heads/*:refs/remotes/new/*
+[branch "master"]
+	remote = new
+	merge = refs/heads/master

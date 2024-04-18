@@ -1,0 +1,33 @@
+{
+  "$id": "1",
+  "AutoRefresh": true,
+  "AutoRefreshRemotes": true,
+  "CommitTextLinks": null,
+  "DraftCommitMsg": "",
+  "IncomingSavedCount": 0,
+  "LastCheckedRemotes": "2024-04-18T09:35:14.8603924+09:00",
+  "LastUsedView": 1,
+  "LogBranchFilterIndex": 0,
+  "OutgoingSavedCount": 0,
+  "SidebarExpandedItems": [
+    "브랜치"
+  ],
+  "SidebarWidth": 210.0,
+  "SubtreeLinks": [],
+  "NeedsLargeFilesPull": false,
+  "RemoteProjectLinks": [
+    {
+      "$id": "2",
+      "BaseUrl": "https://www.github.com",
+      "Identifier": "TwoSum123/new",
+      "RemoteName": "new",
+      "Type": 0,
+      "Username": "twosum",
+      "CloneUrl": null,
+      "ProjectUrl": null,
+      "AccountId": null,
+      "AvatarUrl": null,
+      "DisplayName": "new: https://www.github.com"
+    }
+  ]
+}
